@@ -1,0 +1,34 @@
+        h5 {
+            font-size: 25px; 
+	    color:#000000;
+            text-align:left;   
+	}
+        img{
+            text-align: right;
+        }
+        h4 {
+            font-size: 15px; 
+	    color:#000000;
+            text-align: center;  
+	}
+        img{
+            position:absolute;
+		top: 15px;
+		right: 10px;  
+        }
+        h1{
+            font-size: 40px;
+            color:#000000;
+            text-align:center;   
+        }
+        table{ 
+            position:absolute;
+            top:350px;
+            right: 550px;
+        }
+        form{
+            position:absolute;
+            top:300px;
+            right: 600px;
+        }
+       
